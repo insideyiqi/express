@@ -1,3 +1,8 @@
+unreleased
+==========
+
+ * use `finalhandler` for final response handling
+
 4.4.2 / 2014-06-09
 ==================
 

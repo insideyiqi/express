@@ -2,6 +2,7 @@ unreleased
 ==========
 
  * fix behavior when handling request without routes
+ * restore `req.params` after invoking router
  * use `finalhandler` for final response handling
 
 4.4.2 / 2014-06-09
